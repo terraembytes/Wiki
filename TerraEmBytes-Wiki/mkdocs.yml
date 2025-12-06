@@ -2,6 +2,7 @@ site_name: Terra em Bytes - Wiki
 
 theme:
   name: material
+  logo: assets/logo_bg_transparente.png
   # configurando o modo claro (Default)
   palette:
     - scheme: default
