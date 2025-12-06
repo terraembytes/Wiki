@@ -3,6 +3,8 @@ site_name: Terra em Bytes - Wiki
 theme:
   name: material
   logo: assets/logo_bg_transparente.png
+  features:
+    - navigation.expand
   # configurando o modo claro (Default)
   palette:
     - scheme: default
@@ -19,3 +21,9 @@ theme:
       toggle:
         icon: material/weather-night
         name: Mudar para modo claro
+
+# configuração das barras laterais
+nav:
+  - Bem Vindo ao Terra em Bytes: index.md
+  - Introdução:
+    - Visão Geral: introducao/index.md
