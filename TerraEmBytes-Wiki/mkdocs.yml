@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Terra em Bytes - Wiki
+
+theme:
+  name: material
+  # configurando o modo claro (Default)
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo escuro
+
+    # configurando o modo escuro (Slate)
+    - scheme: slate
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo claro
