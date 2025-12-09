@@ -25,5 +25,6 @@ theme:
 # configuração das barras laterais
 nav:
   - Bem Vindo ao Terra em Bytes: index.md
+  - Como Colaborar: como-colaborar.md
   - Introdução:
     - Visão Geral: introducao/index.md
