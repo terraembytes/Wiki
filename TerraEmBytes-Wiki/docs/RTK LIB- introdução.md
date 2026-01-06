@@ -20,7 +20,7 @@ Para uma versão mais nova, existe o link de RTKExplorer:
 
 Depois, vá na última versão que existe a aba Assets< demo5, como por exemplo a imagem a seguir:
 
-![image-20260106141114056](/assets/instalaçãoRTKLIB.jpg)
+![image-20260106141114056](./assets/instalaçãoRTKLIB.jpg)
 
 Obs: Ao instalar o arquivo demo5 obtemos uma versão para Windows, para Linux deve ser baixado o arquivo **targ.gz** e compilá-lo.
 
